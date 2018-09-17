@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826654796450",
+    "firebase_url": "https://financas-85253.firebaseio.com",
+    "project_id": "financas-85253",
+    "storage_bucket": "financas-85253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826654796450:android:4820dba45c9e2e9f",
+        "android_client_info": {
+          "package_name": "java.financas.filipe.financas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826654796450-losqfu6hm7jam7ducdfmlu62kob2se3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "java.financas.filipe.financas",
+            "certificate_hash": "bc3b9867a302530dfc1d7e35360a6e2eb13668f7"
+          }
+        },
+        {
+          "client_id": "826654796450-9msegd4899c6vrro9jailje0lsau6pdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1nx4ServR2LqkRbFPOTkZRZcg-9JGveY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826654796450-9msegd4899c6vrro9jailje0lsau6pdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

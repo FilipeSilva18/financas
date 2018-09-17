@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Finanças</string>
+    <string name="account_name">ACCOUNT NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="password_hint">**************</string>
+    <string name="forgot_your_login_info">FORGOT YOUR LOGIN INFO?</string>
+    <string name="sign_in">LOGIN</string>
+    <string name="sign_up">SING UP</string>
+    <string name="remember_my_password">REMEMBER MY PASSWORD</string>
+    <string name="username">Username</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
