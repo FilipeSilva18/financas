@@ -70,7 +70,13 @@
                 android:onClick="logIn"
                 android:text="@string/sign_in"
                 android:textColor="@color/colorAccent" />
+
+
         </LinearLayout>
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
     </LinearLayout>
 
 </ScrollView>
